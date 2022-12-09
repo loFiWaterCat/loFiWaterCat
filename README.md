@@ -1,4 +1,4 @@
-### Passion projects, dreams, and a bit of sleep keep the gears turning
+### Passion projects, dreams, and a bit of sleep keep the gears running
 
 Here's what I know:
 React.js | Redux | JavaScript | HTML5 | CSS3 | Ruby | Ruby on Rails | SQL | postgreSQL | Heroku | Webpack 
