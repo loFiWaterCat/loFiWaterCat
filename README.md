@@ -1,4 +1,10 @@
-### Hi there 👋
+### Passion projects, dreams, and a bit of sleep keep the gears turning
+
+Here's what I know:
+React.js | Redux | JavaScript | HTML5 | CSS3 | Ruby | Ruby on Rails | SQL | postgreSQL | Heroku | Webpack 
+
+And what I love:
+Rust | Neovim | Helix | Linux | Git
 
 <!--
 **loFiWaterCat/loFiWaterCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
